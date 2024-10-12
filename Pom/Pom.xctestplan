@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "3F25861E-F492-4037-B6DF-2B8DFF0A3763",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Pom.xcodeproj",
+      "identifier" : "06BACD992CBAC8C500050CD3",
+      "name" : "Pom"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:Pom.xcodeproj",
+        "identifier" : "06BACDAF2CBAC8C600050CD3",
+        "name" : "PomTests"
+      }
+    }
+  ],
+  "version" : 1
+}
